@@ -1,0 +1,11 @@
+﻿Cell Type,Marker 1,Marker 2,Marker 3,Marker 4
+Endothelial cells ,CLDN5, VWF, PECAM1,
+Epithelial cells ,CAPS, SNTN,,
+Alveolar cells ,CLDN18, AQP4, FLOR1,
+Fibroblasts ,COL1A1, COL1A2, DCN,
+T cells ,CD2, CD3D, CD3E, CD3G
+B cells ,CD79A, CD79B,,
+Myeloid cells ,CD14, LYZ,,
+Neutrophils ,CSF3R, S100A8, S100A9,
+Follicular dendritic cells ,FDCSP,,,
+Mast cells ,GATA2, TPSAB1, TPSB2,
